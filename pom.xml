@@ -22,6 +22,9 @@
     <module>mq2.7_spmc_producer</module>
       <module>mq2.8_orderly_producer</module>
     <module>mq2.8_orderly_consumer</module>
+      <module>mq2.9_delay</module>
+      <module>mq2.10_batch</module>
+      <module>mq2.11_filter</module>
   </modules>
 
   <properties>
